@@ -141,6 +141,20 @@ Implement a password strength indicator to help users create stronger master pas
 
 **Expected size of project**: 90 hours
 
+### 9. LAN Sync
+
+Implement device-to-device synchronisation (LAN Sync). The applications can already sync using various server, but it would be good to also allow sync fully offline by having the devices connect to each others directly.
+
+**Expected Outcome**: A new synchronisation method (we call it "sync target") that allows LAN Sync. It should work at a minimum on the Windows and Android apps. Ideally it should be implemented in a cross-platform way so that it works on all our supported operating systems.
+
+**Difficulty Level**: High
+
+**Skills Required**: TypeScript, Networking
+
+**Potential Mentors**: PackElend, Laurent
+
+**Expected size of project**: 175 hours
+
 ## More info
 
 - Make sure you read the [Joplin Google Summer of Code Introduction](https://github.com/joplin/gsoc/blob/main/readme.md)
