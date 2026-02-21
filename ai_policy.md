@@ -68,4 +68,10 @@ Failure to:
 
 may result in immediate rejection of the proposal or pull request without further review.
 
+### Conclusion
+
 AI can be a useful tool. It is not a substitute for understanding, judgement, or engineering discipline.
+
+Use AI thoughtfully. In particular, avoid relying on it to answer review comments or communicate with maintainers. We expect genuine engagement with feedback, not copy-pasted responses. Over-reliance on AI in discussions can quickly become obvious and may be perceived as a lack of respect for the review process.
+
+Finally, remember that collaboration involves real conversations. If you progress through the programme, we will have live discussions, and your ability to explain and justify your work clearly will matter far more than any generated output.
