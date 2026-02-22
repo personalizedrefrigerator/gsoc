@@ -1,10 +1,10 @@
-## Policy on AI-Assisted Contributions during GSoC 2026
+## Policy on AI-assisted contributions during GSoC 2026
 
 We accept the use of AI tools (e.g. LLMs) to assist with contributions. However, strict rules apply.
 
-### 1. Disclosure Requirement
+### Disclosure requirement
 
-All AI-assisted contributions must include a section at the top titled:
+All contributions must include a section at the top titled:
 
 "**AI Assistance Disclosure**"
 
@@ -13,12 +13,10 @@ This section must clearly:
 * Describe what parts were generated or significantly modified using AI
 * Explain how AI was used (e.g. drafting code, refactoring, wording improvements, test suggestions, etc.)
 * Confirm that you have:
-
   * Reviewed the output carefully
-  * Verified correctness
   * Fully understand the generated code or text
 
-### 2. Proposals
+### Proposals
 
 * You **must not use AI to write your GSoC proposal**.
 * It is acceptable to use AI tools to improve clarity, grammar, or wording.
@@ -26,7 +24,13 @@ This section must clearly:
 
 We expect original thinking and a genuine understanding of the project.
 
-### 3. Quality Standards
+### Reviewer communication
+
+You **must not use AI to answer review comments or communicate with maintainers**. We expect genuine engagement with feedback, not copy-pasted responses. Over-reliance on AI in discussions can quickly become obvious and may be perceived as a lack of respect for the review process.
+
+Finally, remember that collaboration involves real conversations. If you progress through the programme, we will have live discussions, and your ability to explain and justify your work clearly will matter far more than any generated output.
+
+### Quality standards
 
 Using AI does not lower our standards.
 
@@ -42,7 +46,7 @@ LLMs are good at generating all this, but quantity does not mean quality.
 
 You are responsible for reviewing, trimming, and refining any AI output. Only submit work that meets Joplin’s quality standards.
 
-### 4. Contribution Guidelines Still Apply
+### Contribution guidelines still apply
 
 All contributors must read and follow our official development guidelines:
 
@@ -52,13 +56,13 @@ If you use AI, you must ensure the generated output follows these rules as well.
 
 AI tools frequently produce code that does not match our architecture, style, or project structure. It is your responsibility to correct this.
 
-### 5. Understanding Requirement
+### Understanding requirement
 
 You must fully understand any code you submit.
 
 We will have live discussions during the programme. If you cannot explain the code you submitted, it will be clear.
 
-### 6. Enforcement
+### Enforcement
 
 Failure to:
 
@@ -71,7 +75,3 @@ may result in immediate rejection of the proposal or pull request without furthe
 ### Conclusion
 
 AI can be a useful tool. It is not a substitute for understanding, judgement, or engineering discipline.
-
-Use AI thoughtfully. In particular, avoid relying on it to answer review comments or communicate with maintainers. We expect genuine engagement with feedback, not copy-pasted responses. Over-reliance on AI in discussions can quickly become obvious and may be perceived as a lack of respect for the review process.
-
-Finally, remember that collaboration involves real conversations. If you progress through the programme, we will have live discussions, and your ability to explain and justify your work clearly will matter far more than any generated output.
